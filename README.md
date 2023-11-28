@@ -1,5 +1,4 @@
-# Project Title
-Chat to your enterprise data
+# Project Title: Chat to your enterprise data
 
 ## Table of Contents
 
