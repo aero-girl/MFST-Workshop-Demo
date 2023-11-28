@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation](##installation)
+- [Usage](##usage)
 
 ## Installation
 
@@ -19,7 +19,7 @@ python -m venv .venv
 ##### install requirements
 pip install -r .\requirements.txt
 
-### Usage
+## Usage
 ### Step 3
 ##### run stremalit
 streamlit run .\app.py
